@@ -101,6 +101,7 @@ export default function Register() {
               >
                 Submit
               </button>
+              <a href="http://localhost:5173/login" class="ml-2 text-blue-400 visited:text-purple-600 underline "> Login </a>
             </form>
           </>
         )}
